@@ -1,4 +1,6 @@
-### Hi there 👋
+## Windymelt
+
+- I'm interested in Scala.
 
 <!--
 **windymelt/windymelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Windymelt's GitHub stats](https://github-readme-stats.vercel.app/api?username=windymelt&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windymelt&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
